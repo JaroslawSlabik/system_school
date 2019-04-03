@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/AddNewStudentLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryModificationSpecialization.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/AddNewGroupLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/DeleteGroupLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ModificationSpecjalizationLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/web/style.css</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ShowStudentLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Servlets/StudentServlet.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryModificationStudent.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SQLDatabaseExecutor.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQuerySelectAllStudents.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ShowAllStudentsLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/DeleteStudentLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryDeleteSpecialization.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryModificationGroup.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/I_Query.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ModificationGroupLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ShowAllSpecjalizationsLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryInsertNewGroup.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryInsertNewStudent.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryInsertNewSpecialization.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQuerySelectAllSpecializations.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/AddNewSpecjalizationLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/LogicWorker.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ShowSpecjalizationLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ModificationStudentLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/DeleteSpecializationLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQuerySelectSpecjalizationInfo.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ShowAllGroupsLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryDeleteStudent.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/I_Logic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQueryDeleteGroup.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQuerySelectGroupInfo.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQuerySelectAllGroups.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Logics/ShowGroupLogic.java</file>
+            <file>file:/D:/net_beans/system_uczelnia/web/index.jsp</file>
+            <file>file:/D:/net_beans/system_uczelnia/src/java/Database/SqlQuerySelectStudentInfo.java</file>
+        </group>
+    </open-files>
+</project-private>
